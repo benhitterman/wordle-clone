@@ -1,16 +1,34 @@
-# wordle_clone
+# Wordle Clone 🎯
 
-A new Flutter project.
+A Flutter-based Wordle clone with a sleek UI and smooth gameplay.
 
-## Getting Started
+## ✨ Features
 
-This project is a starting point for a Flutter application.
+- 🟩 Classic Wordle gameplay
+- 🎨 Clean and responsive UI
+- 📱 Works on both Android and iOS
+- 🔥 Animated tile flips and keyboard interactions
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Installation
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/benhitterman/wordle-clone.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd wordle-clone
+   ```
+3. Install dependencies:
+   ```bash
+   flutter pub get
+   ```
+4. Run the app:
+   ```bash
+   flutter run
+   ```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Tech Stack
+
+- Flutter
+- Dart
